@@ -11,7 +11,7 @@ Yeonbum Kim (yeonbumk@gmail.com)
 ## 설치
 
 ```bash
-git clone https://github.com/your-repo/excel-split-merge.git
+git clone https://github.com/yeonbumkim/excel-sheet-split-merge.git
 cd excel-split-merge
 python -m venv .venv
 source .venv/bin/activate           # Windows: .venv\Scripts\activate
